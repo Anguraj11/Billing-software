@@ -11,7 +11,7 @@ streamline billing processes for businesses by efficiently managing administrati
 information, and stock inventory. One of the key features of the proposed system is its ability to
 generate bills, store them in a CSV file, and allow administrators to view and email bills to
 customers using their details.
-      1.Upon launching the software, administrators are prompted to log in using their credentials.
+      **1.Upon launching the software, administrators are prompted to log in using their credentials.
       2.After successful authentication, administrators can access various modules including
 customer management, stock management, billing, and email integration.
       3.In the customer and stock modules, administrators can perform operations such as adding,
@@ -20,7 +20,7 @@ editing, or deleting records as needed.
 specify quantities, and confirm the billing process.
       5.The system calculates the total amount due and generates a detailed bill, which is stored in
 a CSV file for record-keeping.
-
+**
     **Advantages of Billing System** 
           1.Admin can able to perform CRUD operations. 
           2.Admin can review the sales.
